@@ -30,4 +30,6 @@ public class QueryProcessorTest {
         assertThat(queryProcessor.process("17313"), containsString("love"));
     }
 
+    broken code
+
 }
